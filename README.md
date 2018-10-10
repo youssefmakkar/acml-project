@@ -1,6 +1,3 @@
-# acml-project
+# My App
 
-
-**ID:** 37-1094
-
-**Name:** Youssef MAKKAR
+A sample go app with deps.
